@@ -1,0 +1,12 @@
+.menu{
+    background-color:darkred;
+    color:white;
+    margin-inline: 10px;
+    padding: 15px;
+    align-items: center;
+}
+.title{
+    text-align:center;
+    margin:10px;
+    margin-bottom:25px;
+}
